@@ -1,5 +1,5 @@
 # Lesson-4
-===
+
 CLASSWORK
 ---
 26.11.2019
@@ -15,11 +15,10 @@ CLASSWORK
 
 *Display all previous numbers.*
 
-===
 **Задание 2:**
 ---
 *Ввывести надпись несколько раз подряд.*
 
 **Exercise 2:**
 ---
-*Print the caption several times in a row.*
+*Display the inscription several times in a row.*
